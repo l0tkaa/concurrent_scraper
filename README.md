@@ -6,6 +6,9 @@ This is a high-performance web scraping application designed to efficiently gath
 
 In addition to its powerful scraping capabilities, this app automatically checks and follows `robots.txt` rules to avoid restricted sections of websites, ensuring that scraping is legal and ethical. Designed with modularity in mind, it is easy to extend and customize with new features.
 
+> [!WARNING] 
+> This project is still under development and may contain bugs.
+
 ### Features
 - **Multithreading**: Scrape multiple URLs simultaneously for faster data collection.
 - **Multiprocessing**: Process scraped data in parallel to reduce bottlenecks.
