@@ -16,7 +16,7 @@ In addition to its powerful scraping capabilities, this app automatically checks
 - **Modular Structure**: Easily extendable and maintainable codebase for future enhancements.
 
 ### Project Structure
-
+```
 scraper_app/
 │
 ├── scraping/                           # Core scraping functionality
@@ -42,4 +42,4 @@ scraper_app/
 ├── LICENSE                             # MIT License file
 ├── README.md                           # Documentation for the project
 └── main.py                             # Main entry point for running the application
-
+```
